@@ -3,7 +3,7 @@ const pathToImageFolder = "/images/";
 export const user = {
   name: "Ulyana",
   secondName: "Vitalievna",
-  thirdName: "Stsefanovich",
+  thirdName: "Stefanovich",
   jobTitle: "Junior frontend developer",
   about:
     "Passionate junior developer eager to learn and grow in the field of web development. Skilled in JavaScript, HTML, CSS, React and C++. Excited to work on challenging projects and contribute to innovative solutions.",
