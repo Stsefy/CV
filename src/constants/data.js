@@ -10,7 +10,7 @@ export const user = {
   skills: ["JavaScript", "HTML", "CSS", "React", "C++"],
   education: [
     {
-      org: "University BSU",
+      org: "Belarussian State University",
       desc: "Bachelor of Science in Mathematics and Computer Science",
       period: "2023 - 2027",
     },
@@ -31,6 +31,10 @@ export const user = {
       name: "German",
       value: "B2",
     },
+    {
+      name: "Russian",
+      value: "Native",
+    },
   ],
   contacts: [
     {
@@ -39,7 +43,7 @@ export const user = {
     },
     {
       name: "Mail",
-      value: "uliannastefanovich@gmail.com",
+      value: "ulianastefanovich@gmail.com",
     },
     {
       name: "Location",
@@ -81,7 +85,7 @@ export const projects = [
     id: 4,
     title: "Lamoda",
     description:
-      "An online store with the ability to filter and sort products.",
+      "An online store that filters and sorts products.",
     image: `${pathToImageFolder}lamoda.png`,
     link: "https://stsefy.github.io/lamoda/",
   },
