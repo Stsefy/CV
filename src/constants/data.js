@@ -28,7 +28,7 @@ export const user = {
       value: "B2",
     },
     {
-      name: "Deutch",
+      name: "German",
       value: "B2",
     },
   ],
